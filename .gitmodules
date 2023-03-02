@@ -1,3 +1,6 @@
 [submodule "templates-ipynb"]
 	path = templates-ipynb
 	url = https://github.com/ci-hi/templates-ipynb.git
+[submodule "src/learn-python-BI"]
+	path = src/learn-python-BI
+	url = https://github.com/Soltus/learn-python-BI.git
